@@ -1,4 +1,4 @@
-## This project is under construction...
+## This the project for Searh-in-the-chain
 Welcome to read our paper：https://arxiv.org/abs/2304.14732
 ```
 @misc{xu2023searchinthechain,
@@ -10,6 +10,7 @@ Welcome to read our paper：https://arxiv.org/abs/2304.14732
       primaryClass={cs.CL}
 }
 ```
+You can try to run our project by following the steps below, running in different environments may encounter various problems. We are still working hard to make it robust and bug-free. 
 #### 1. Index your corpus via ColBERT
    Process your data into a format suitable for ColBERT indexing 
    ```
