@@ -1,4 +1,4 @@
-## This the project for Searh-in-the-chain
+## This is the project for Searh-in-the-chain
 Welcome to read our paper：https://arxiv.org/abs/2304.14732
 ```
 @misc{xu2023searchinthechain,
