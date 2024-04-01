@@ -10,7 +10,7 @@ Welcome to read our paper：https://arxiv.org/abs/2304.14732
       primaryClass={cs.CL}
 }
 ```
-You can start Searchain quickly from LLamaIndex: [here](https://github.com/run-llama/llama_index/tree/main/llama-index-packs/llama-index-packs-searchain)
+**You can start Searchain quickly from LLamaIndex: [here](https://github.com/run-llama/llama_index/tree/main/llama-index-packs/llama-index-packs-searchain)**
 
 You can try to run our project by following the steps below, running in different environments may encounter various problems. We are still working hard to make it robust and bug-free. 
 #### 1. Index your corpus via ColBERT
