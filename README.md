@@ -1,13 +1,12 @@
 ## This is the project for Search-in-the-Chain
 Welcome to read our paper：https://arxiv.org/abs/2304.14732
 ```
-@misc{xu2023searchinthechain,
-      title={Search-in-the-Chain: Towards Accurate, Credible and Traceable Large Language Models for Knowledge-intensive Tasks}, 
-      author={Shicheng Xu and Liang Pang and Huawei Shen and Xueqi Cheng and Tat-Seng Chua},
-      year={2023},
-      eprint={2304.14732},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{xu2024search,
+  title={Search-in-the-chain: Interactively enhancing large language models with search for knowledge-intensive tasks},
+  author={Xu, Shicheng and Pang, Liang and Shen, Huawei and Cheng, Xueqi and Chua, Tat-Seng},
+  booktitle={Proceedings of the ACM Web Conference 2024},
+  pages={1362--1373},
+  year={2024}
 }
 ```
 **You can start Searchain quickly from LLamaIndex: [here](https://github.com/run-llama/llama_index/tree/main/llama-index-packs/llama-index-packs-searchain)**
